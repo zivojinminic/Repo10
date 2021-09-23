@@ -12,5 +12,5 @@ function myFunction(newProperty, newValue) {
     return lion;
 // Only change code above this line
 }
-console.log(myFunction("roar", "roar-roar")); //Change this line
+myFunction("roar", "roar-roar"); //Change this line
 module.exports = myFunction;
